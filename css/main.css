@@ -37,8 +37,26 @@ body {
 /* about myself section  */
 #aboutme {
   border-top-right-radius: 120px;
+  padding: 200px 0;
 }
 
 #resume li {
+  min-width: 120px;
   background-color: #f7f7f9;
+}
+
+#resume img {
+  width: 48px;
+}
+
+/* form section */
+footer {
+  margin-top: -100px;
+  border-top-left-radius: 120px;
+}
+
+#message {
+  width: 100%;
+  height: 200px;
+  resize: none;
 }
