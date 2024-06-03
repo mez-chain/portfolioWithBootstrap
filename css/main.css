@@ -2,7 +2,6 @@
 body {
   background-color: #f7f7f9;
   font-family: "Poppins", sans-serif;
-  height: 10000px;
 }
 
 /* landing page */
@@ -33,4 +32,13 @@ body {
 
 .work {
   margin-bottom: 100px;
+}
+
+/* about myself section  */
+#aboutme {
+  border-top-right-radius: 120px;
+}
+
+#resume li {
+  background-color: #f7f7f9;
 }
