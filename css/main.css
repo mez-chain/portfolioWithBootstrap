@@ -25,3 +25,12 @@ body {
 .social {
   text-decoration: none;
 }
+
+/* works section */
+#works {
+  margin: 150px 0;
+}
+
+.work {
+  margin-bottom: 100px;
+}
